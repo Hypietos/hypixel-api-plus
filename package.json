@@ -10,7 +10,7 @@
     "hypixel",
     "api"
   ],
-  "author": "duo#0233 armic",
+  "author": "duo#0233 armic#7470",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.27.2",
