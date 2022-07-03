@@ -25,7 +25,6 @@ module.exports = {
       success: true,
       player: {
         uuid: req.query.uuid,
-        username: response.data.player.displayname,
         rank: response.data.player.rank, firstLogin:
         response.data.player.firstLogin, lastLogin:
         response.data.player.lastLogin,
