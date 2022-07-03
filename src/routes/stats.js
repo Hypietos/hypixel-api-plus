@@ -220,7 +220,6 @@ module.exports = {
         uhc: { combat: {}, games: {} },
         bridge: { combat: {}, games: {} },
         skywars: { combat: {}, games: {} },
-
         combo: { combat: {}, games: {} },
         no_debuff: { combat: {}, games: {} },
         bow: { combat: {}, games: {} },
@@ -228,7 +227,6 @@ module.exports = {
         op: { combat: {}, games: {} },
         blitz_sg: { combat: {}, games: {} },
         mega_walls: { combat: {}, games: {} },
-
         arena: { combat: {}, games: {} },
         boxing: { combat: {}, games: {} },
         parkour: { combat: {}, games: {} },
